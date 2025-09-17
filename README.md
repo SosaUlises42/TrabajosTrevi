@@ -9,3 +9,4 @@
 - **Especialidad:** Programación  
 - **Correo:** 23308060610395@cetis61.edu.mx  
 - **Teléfono:** 656 315 6568
+- **Le gusta:** Los roles Bimbo (solo los blancos)
