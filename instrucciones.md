@@ -71,7 +71,7 @@ README.md es una descripción de tu proyecto y es una buena práctica incluirlo 
    que copiaste:  
 
    ```bash
-   git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git
+   git clone [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO]
    ```
    Este comando 
    descargará una copia completa de tu repositorio (incluyendo el README.md) en una nueva carpeta 
